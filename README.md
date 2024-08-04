@@ -1,4 +1,4 @@
-## Тестирование страницы [Страница с новостями по игре Alan Wake](https://www.alanwake.com/news/#/feed) с помощью Playwright, Python, PageObject
+## Тестирование страницы [с новостями по игре Alan Wake](https://www.alanwake.com/news/#/feed) с помощью Playwright, Python, PageObject
 ### Описание
 
 Этот проект реализует автоматические тесты для [Страница с новостями](https://www.alanwake.com/news/#/feed) с помощью фреймворка Playwright и паттерна PageObject. 
